@@ -1,4 +1,4 @@
-# dhbw-demo
-Das ist ein Test.
+# Dies ist ein Test
 
-Hallo Welt
+Beispiel aus der Vorlesung
+
