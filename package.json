@@ -4,7 +4,7 @@
     "author": "Conclurer GmbH",
     "homepage": "https://conclurer.com/",
     "scripts": {
-        "ng": "ng",
+        "ng": "ng",da dada d
         "start": "ng serve",
         "build": "ng build",
         "test": "ng test",
